@@ -7,9 +7,6 @@ h2 {
     text-align:center;
     padding: 20px;
 }
-#P12{
-    text-align:right;
-}
 #P23{
     color:white;
     background-color:rgb(96, 132, 240);
@@ -20,8 +17,6 @@ h2 {
     padding:1%;
     background-color:rgb(96, 132, 240);
     color:white;
-    width: 70%;
-    text-align:left;
 }
 nav {
     background-color: #333;
